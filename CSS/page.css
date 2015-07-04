@@ -1,0 +1,11 @@
+@charset "UTF-8";
+#page {
+	height: auto;
+	width: auto;
+	margin: 0 auto;
+	padding-bottom: 55px;/*footer height*/
+	text-align: center;
+}
+#container #page #main_content_black {
+	background-color: rgba(0,0,0,1.00);
+}

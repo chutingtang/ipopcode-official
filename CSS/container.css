@@ -1,0 +1,8 @@
+@charset "UTF-8";
+#container {
+	min-height:100%;
+	height: auto !important;
+	height: 100%; /*IE6不識別min-height*/
+	width: auto;
+	position: relative;
+}

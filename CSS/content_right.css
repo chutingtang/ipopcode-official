@@ -1,0 +1,12 @@
+@charset "UTF-8";
+#right {
+	height: auto;
+	width: 20%;
+	float:right
+}
+#right_b {
+	height: auto;
+	width: 20%;
+	float: left;
+	background-color: rgba(0,0,0,1.00);
+}

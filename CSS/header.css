@@ -1,0 +1,42 @@
+@charset "UTF-8";
+#header {
+	height: 276px;
+	width: auto;
+}
+#container #header #header_content_green {
+	width: auto;
+	height: 226px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 50px;
+	text-align: center;
+	background-repeat: repeat-x;
+	background-image: url(../images/summer-promotion_bg.png);
+}
+#container #header #header_content_black {
+	width: auto;
+	height: 276px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+	background-color: rgba(0,0,0,1.00);
+}
+#container #header #header_content_aqua {
+	width: auto;
+	height: 276px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+	background-repeat: repeat-x;
+	background-image: url(../images/lab-background.png);
+}
+
+#header #header_content_green #img_01 {
+	margin-top: 6px;
+}

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+#header_content_white {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#header_content_white a {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#header_content_white a:hover{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: rgba(55,55,55,1.00);
+}
+
+

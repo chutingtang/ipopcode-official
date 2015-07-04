@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 48px;/*footer height*/
+	clear: both;
+	padding-top: 7px;
+	color: rgba(255,255,255,1.00);
+	font-style: normal;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-indent: 0px;
+	font-size: 10px;
+	background-image: url(../images/footer-background.png);
+}

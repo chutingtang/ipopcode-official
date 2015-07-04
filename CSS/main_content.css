@@ -1,0 +1,27 @@
+@charset "UTF-8";
+#content {
+	height: auto;
+	width: 60%;
+	float: left;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: rgba(77,77,77,1.00);
+	font-style: normal;
+}
+#content table {
+	margin-top: 80px;
+}
+#content tbody tr td {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	vertical-align: top;
+	border-width: 0px;
+	line-height: 28px
+}
+#content_b {
+	height: auto;
+	width: 60%;
+	float: left;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: rgba(77,77,77,1.00);
+	font-style: normal;
+	background-color: rgba(0,0,0,1.00);
+}
